@@ -21,7 +21,7 @@
     ],
     "require": {
         "anax/anax-ramverk1-me": "^1.0.0",
-        "anax/testweather": "dev-master"
+        "knasenn/testweather": "dev-master"
     },
 
     "require-dev": {
