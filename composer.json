@@ -14,15 +14,16 @@
         ]
     },
     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/knasenn/testweather"
-        }
+    {
+        "type": "vcs",
+        "url": "https://github.com/knasenn/testweather"
+    }
     ],
     "require": {
         "anax/anax-ramverk1-me": "^1.0.0",
-        "anax/remserver": "dev-master"
+        "anax/testweather": "dev-master"
     },
+
     "require-dev": {
         "phpunit/phpunit": "^7"
     }
